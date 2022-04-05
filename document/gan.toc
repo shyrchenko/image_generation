@@ -1,0 +1,6 @@
+\babel@toc {ukrainian}{}
+\contentsline {section}{\numberline {1}Вступ}{3}{}%
+\contentsline {section}{\numberline {2}Теоретична частина}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Основна ідея моделі}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Постановка задачі генерації зображення}{6}{}%
+\contentsline {subsection}{\numberline {2.3}Навчання генеративних змагальних мереж}{7}{}%
